@@ -1,0 +1,9 @@
+{
+  "name": "reserva-tokens",
+  "version": "1.0.0",
+  "description": "Mantém uma reserva do limite do plano do Claude Code (padrão 20%) para emergências: mostra o uso 5h/7d na status line e entra em modo reserva ao passar do limite.",
+  "author": { "name": "brugodoi" },
+  "repository": "https://github.com/brugodoi/reserva-tokens",
+  "license": "MIT",
+  "keywords": ["tokens", "usage", "rate-limit", "statusline", "budget"]
+}

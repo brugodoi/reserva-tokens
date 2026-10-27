@@ -1,0 +1,11 @@
+{
+  "name": "reserva-tokens",
+  "owner": { "name": "brugodoi" },
+  "plugins": [
+    {
+      "name": "reserva-tokens",
+      "source": "./",
+      "description": "Reserva de limite do plano do Claude Code para emergências, com status line de uso e modo reserva automático."
+    }
+  ]
+}
