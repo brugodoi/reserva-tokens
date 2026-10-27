@@ -1,0 +1,9 @@
+{
+  "name": "token-reserve",
+  "version": "1.0.0",
+  "description": "Keeps a reserve of your Claude Code plan limit (default 20%) for emergencies: shows 5h/7d usage in the status line and switches to reserve mode once the limit is crossed.",
+  "author": { "name": "brugodoi" },
+  "repository": "https://github.com/brugodoi/reserva-tokens",
+  "license": "MIT",
+  "keywords": ["tokens", "usage", "rate-limit", "statusline", "budget"]
+}

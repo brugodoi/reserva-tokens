@@ -4,8 +4,13 @@
   "plugins": [
     {
       "name": "reserva-tokens",
-      "source": "./",
-      "description": "Reserva de limite do plano do Claude Code para emergências, com status line de uso e modo reserva automático."
+      "source": "./plugins/reserva-tokens",
+      "description": "Reserva de limite do plano do Claude Code para emergências, com status line de uso e modo reserva automático. (Português)"
+    },
+    {
+      "name": "token-reserve",
+      "source": "./plugins/token-reserve",
+      "description": "Keeps a reserve of your Claude Code plan limit for emergencies, with a usage status line and automatic reserve mode. (English)"
     }
   ]
 }
