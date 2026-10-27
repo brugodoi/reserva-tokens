@@ -1,3 +1,5 @@
+<img src="docs/icon.png" width="96" align="right" alt="">
+
 # token-reserve / reserva-tokens
 
 Claude Code plugin that keeps a reserve of your plan limit (default 20%) for emergencies.
